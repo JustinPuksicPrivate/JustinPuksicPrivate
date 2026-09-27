@@ -21,7 +21,7 @@ Unofficial **Supernatural** text-based online RPG built as a browser game.
 
 ## 🛠 Tech Stack
 
-- **Backend**: Laravel, PHP 8, MySQL  
+- **Backend**: Laravel, PHP 8, MySQL/MariaDB, Redis, REST API 
 - **Bots & Automation**: Laracord, DiscordPHP, Laravel Zero  
 - **Android**: Kotlin, Java, TWA wrappers  
 - **Frontend (game)**: HTML, CSS, JS (browser-based UI)  
